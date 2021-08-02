@@ -1,17 +1,9 @@
-{
-"environments" : {
- "pavan" : {
-     "host" : "localhost"
-	 "port" : "3306"
-	 "envgroup" : "test"
-	 "role" : "test"
-	 "purpose" : "test"
- },
- "pavan1" : {
-	 "host" : "localhost"
-	 "port" : "3306"
-	 "envgroup" : "test"
-	 "role" : "test"
-	 "purpose" : "test"
- }
-}
+{"environments" : {
+		"pavan" : [{
+			"host" : "localhost",
+			"port" : "3306",
+			"envgroup" : "test",
+			"role" : "test",
+			"purpose" : "test"
+		}]
+}}
